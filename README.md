@@ -19,7 +19,7 @@ Here's a step-by-step guide to installing OpenVPN using the provided script:
 Download the OpenVPN installation script from the provided repository:
 
 ```sh
-wget https://raw.githubusercontent.com/Cybersecsolution/OpenVPN/main/openvpn-ubuntu-install.sh -O openvpn-ubuntu-install.sh
+wget https://raw.githubusercontent.com/Cybersecsolution/Openvpn/refs/heads/main/openvpn-ubuntu-install.sh -O openvpn-ubuntu-install.sh
 ```
 
 #### Step 3: Run the Script ▶️
